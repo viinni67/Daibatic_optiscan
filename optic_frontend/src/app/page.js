@@ -17,7 +17,7 @@ export default function Home() {
     age: " ",
     gender: " ",
     previous: "",
-    pregnant: "no",
+    pregnant: "",
 
   })
   const handlefilechange=(e)=>{
